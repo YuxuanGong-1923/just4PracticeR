@@ -58,7 +58,7 @@ is_zero <- function(x) {
 #'
 #' This function takes two numeric inputs and returns the result of dividing `x` by `y`.
 #'
-#' @param x A numeric value. The numerator.
+#' @param x A numeric value. The numerator.git remote add origin https://github.com/YourUsername/YourRepositoryName.git
 #' @param y A numeric value. The denominator. Must not be zero.
 #' @return The quotient of `x` divided by `y`. Returns `Inf` if `y` is zero.
 #' @examples
