@@ -1,0 +1,12 @@
+Package: just4PracticeR
+Type: Package
+Title: Arithmetic
+Version: 0.1.0
+Author: Gong
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The package includes basic arithmetic functions: addition, 
+            subtraction, multiplication, and division.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
